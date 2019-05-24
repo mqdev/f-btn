@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/mqdev/f-btn#readme",
   "dependencies": {
-    "@v-fresh/f-core": "^0.0.1"
+    "@v-fresh/f-core": "^0.0.1",
+    "vue": "^2.6.10",
+    "vue-property-decorator": "^8.1.1"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "typeAcquisition": {
+    "enable": true
+  },
+  "compilerOptions": {
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "rootDir": "."
+  }
+}
