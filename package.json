@@ -1,0 +1,26 @@
+{
+  "name": "@v-fresh/f-btn",
+  "version": "0.0.1",
+  "description": "Vue Fresh Framework Button Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqdev/f-btn.git"
+  },
+  "author": {
+    "email": "2om.marco.quintella@gmail.com",
+    "name": "Marco Quintella",
+    "url": "https://github.com/mqdev/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mqdev/f-btn/issues"
+  },
+  "homepage": "https://github.com/mqdev/f-btn#readme",
+  "dependencies": {
+    "@v-fresh/f-core": "^0.0.1"
+  }
+}
